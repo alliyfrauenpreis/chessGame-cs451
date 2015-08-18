@@ -1,7 +1,8 @@
+.startSessionButton {
+    float: right;
+}
+
 button {
-    position: fixed;
-    right: 20%;
-    top: 5%;
     border: none;
     border-radius: 10px;
     font-size: 2em;
