@@ -1,3 +1,14 @@
+button {
+    position: fixed;
+    right: 20%;
+    top: 5%;
+    border: none;
+    border-radius: 10px;
+    font-size: 2em;
+    background-color: #1DBC30;
+    color: white;
+}
+
 a {
     color:#000;
     display:block;
